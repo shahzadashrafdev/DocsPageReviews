@@ -1,0 +1,18 @@
+@media (max-width: 768px) and (min-width: 0px){
+    
+   #header, .aui-header {width:auto!important;}
+   h1#logo span.aui-header-logo-text{    font-size: 14px!important; padding-left:0!important}
+    header .aui-nav, .aui-header .aui-header-secondary .aui-nav{margin-right:0px!important;  width:auto;padding: 0;}
+   header #quick-search-query{width:inherit!important;}
+   #quick-search{padding:auto;}
+   header#header .aui-header .aui-header-secondary .aui-nav>li:first-child{ width: auto!important;}
+   .wiki-content h2{    margin-top: 20px; }
+    #splitter{min-width:auto;}
+   #content{width:auto;}
+   table, tbody, tr, td{display: block;}
+   td{width:100%;margin-bottom:40px;}
+    #main-header{ margin-left:-50px;}
+   }
+  @media (max-width:587px) and (min-width: 0px){
+      .aui-header-secondary .aui-nav{float: left!important;}
+  }
