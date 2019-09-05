@@ -6,12 +6,12 @@
    header #quick-search-query{width:inherit!important;}
    #quick-search{padding:auto;}
    header#header .aui-header .aui-header-secondary .aui-nav>li:first-child{ width: auto!important;}
-   .wiki-content h2{    margin-top: 20px; }
+   .wiki-content h2{margin-top: 20px!important; }
     #splitter{min-width:auto;}
    #content{width:auto;}
     .wiki-content{overflow:auto;}
    table, tbody, tr, td{display: block;}
-   td{width:100%;margin-bottom:40px;}
+   td{width:100%;margin-bottom:40px!important;}
     #main-header{ margin-left:-50px;}
    }
   @media (max-width:587px) and (min-width: 0px){
