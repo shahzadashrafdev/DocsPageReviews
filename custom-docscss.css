@@ -9,6 +9,7 @@
    .wiki-content h2{    margin-top: 20px; }
     #splitter{min-width:auto;}
    #content{width:auto;}
+    .wiki-content{overflow:auto;}
    table, tbody, tr, td{display: block;}
    td{width:100%;margin-bottom:40px;}
     #main-header{ margin-left:-50px;}
