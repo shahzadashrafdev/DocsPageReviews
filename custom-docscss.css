@@ -1,6 +1,7 @@
 @media (max-width: 768px) and (min-width: 0px){
    #header, .aui-header {width:auto!important;}
    h1#logo span.aui-header-logo-text{    font-size: 14px!important; padding-left:0!important}
+   #title-text {font-size:20px;}
     header .aui-nav, .aui-header .aui-header-secondary .aui-nav{margin-right:0px!important;  width:auto;padding: 0;}
    header #quick-search-query{width:inherit!important;}
    #quick-search{padding:auto;}
@@ -9,12 +10,15 @@
     #splitter{min-width:auto;}
    #content{width:auto;}
    .wiki-content{overflow: auto;}
-   table, tbody, tr, td{display: block;}
-   td{width:100%;margin-bottom:40px!important;}
-    #main-header{ margin-left:-50px;}
+   .wiki-content .sectionMacro tbody tr td{display: block;}
+   .wiki-content ol li {margin: 0 0px 0px -20px;padding: 10px 10px 0 0;}
+   .sectionMacro td{width:100%;margin-bottom:40px;}
+    /*#main-header{ margin-left:-50px;}*/
     .sectionMacro tbody tr td{ padding-left: 0px!important;}
     .aui-message{padding:15px;}
     .aui-message .aui-icon { float: right!important;position: static;padding:5px;}
+    .confluenceTable, .sortableHeader, .confluenceTh, .confluenceTd{ width:auto!important; }
+    .confluenceTd{margin-bottom:auto!important;}
    }
   @media (max-width:587px) and (min-width: 0px){
       .aui-header-secondary .aui-nav{float: left!important;}
