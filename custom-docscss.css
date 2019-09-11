@@ -20,7 +20,7 @@
    .table-wrap{overflow:auto;}
     .confluenceTable, .sortableHeader, .confluenceTh, .confluenceTd{display:block; width:auto!important;}
    .confluenceTable {position:relative;}
-   .confluenceTable theading tr{position:absolute;top:-9999px;left:-9999px}
+   .sortableHeader {position:absolute;top:-9999px; left:-9999px;}
    .confluenceTd{margin-bottom:auto!important;position:relative;}
    .confluenceTable tr td:before {position:absolute;}
    
