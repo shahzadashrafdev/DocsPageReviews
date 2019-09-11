@@ -18,7 +18,8 @@
     .aui-message{padding:15px;}
     .aui-message .aui-icon { float: right!important;position: static;padding:5px;}
    .table-wrap{overflow:auto;}
-   .confluenceTable, .confluenceTable tbody .sortableHeader, .confluenceTh, .confluenceTd{display:block; width:100%;}
+   .table-wrap .confluenceTable th tbody tr td{display:block;}
+   /*.confluenceTable, .confluenceTable tbody .sortableHeader, .confluenceTh, .confluenceTd{display:block!important; width:100%;}*/
    /*.confluenceTable {position:relative;}*/
    /*.sortableHeader {position:absolute;top:-9999px; left:-9999px;}*/
    /*.confluenceTd{margin-bottom:auto!important;position:relative;}*/
