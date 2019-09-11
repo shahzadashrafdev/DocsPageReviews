@@ -18,9 +18,9 @@
     .aui-message{padding:15px;}
     .aui-message .aui-icon { float: right!important;position: static;padding:5px;}
    .table-wrap{overflow:auto;}
-   .confluenceTable (width:100%;}
+   .confluenceTable {width:100%;}
    /*.table-wrap .confluenceTable tbody tr td{display:block!important;}*/
-   .confluenceTable, .sortableHeader, .confluenceTh, .confluenceTd, .confluenceTable tr{display:block!important;}
+   .confluenceTable, .sortableHeader, .confluenceTh, .confluenceTd{display:block!important;}
    /*.confluenceTable {position:relative;}*/
    /*.sortableHeader {position:absolute;top:-9999px; left:-9999px;}*/
    /*.confluenceTd{margin-bottom:auto!important;position:relative;}*/
