@@ -20,8 +20,9 @@
    .table-wrap{overflow:auto;}
     .confluenceTable, .sortableHeader, .confluenceTh, .confluenceTd{display:block; width:auto!important;}
    .confluenceTable {position:relative;}
-    .confluenceTd{margin-bottom:auto!important;position:relative; top: 20px; height:20px;}
-   .confluenceTable tr:last-child td{position:absolute; top:0px;}
+   .confluenceTd{margin-bottom:auto!important;position:relative;}
+   .confluenceTable tr td:before {position:absolute;}
+   
    .space-logo{display:none!important;}
    .confluence-embedded-image{width:48px!important; height:48px!important;}
    /*.emoticon{width:10px;}*/
