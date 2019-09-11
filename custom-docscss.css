@@ -19,8 +19,8 @@
     .aui-message .aui-icon { float: right!important;position: static;padding:5px;}
     .confluenceTable, .sortableHeader, .confluenceTh, .confluenceTd{ width:60%!important; }
     .confluenceTd{margin-bottom:auto!important;}
-   .logo.space {display:none;}
-   .confluence-embedded-image{width:48px, height:48px}
+   .space-logo{display:none!important;}
+   .confluence-embedded-image{width:48px!important; height:48px!important;}
    }
   @media (max-width:587px) and (min-width: 0px){
       .aui-header-secondary .aui-nav{float: left!important;}
