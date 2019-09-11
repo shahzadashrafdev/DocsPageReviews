@@ -1,7 +1,7 @@
 @media (max-width: 768px) and (min-width: 0px){
    #header, .aui-header {width:auto!important;}
    h1#logo span.aui-header-logo-text{    font-size: 14px!important; padding-left:0!important}
-   #title-text {font-size:20px;font-weight: 800; white-space: nowrap;/* width: 100%; */ word-break: normal;}
+   #title-text {font-size:16px;font-weight: 800; white-space: nowrap;word-break: normal;}
     header .aui-nav, .aui-header .aui-header-secondary .aui-nav{margin-right:0px!important;  width:auto;padding: 0;}
    header #quick-search-query{width:inherit!important;}
    #quick-search{padding:auto;}
