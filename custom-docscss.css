@@ -17,7 +17,7 @@
     .sectionMacro tbody tr td{ padding-left: 0px!important;}
     .aui-message{padding:15px;}
     .aui-message .aui-icon { float: right!important;position: static;padding:5px;}
-    .confluenceTable, .sortableHeader, .confluenceTh, .confluenceTd{ width:auto!important;font-size:5px }
+    .confluenceTable, .sortableHeader, .confluenceTh, .confluenceTd{ width:auto!important;font-size:4px }
     .confluenceTd{margin-bottom:auto!important;}
    .space-logo{display:none!important;}
    .confluence-embedded-image{width:48px!important; height:48px!important;}
