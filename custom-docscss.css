@@ -18,7 +18,7 @@
     .aui-message{padding:15px;}
     .aui-message .aui-icon { float: right!important;position: static;padding:5px;}
    .table-wrap{overflow:auto;}
-   .table-wrap .confluenceTable th tbody tr td{display:block;}
+   .table-wrap .confluenceTable tbody tr td{display:block!important;}
    /*.confluenceTable, .confluenceTable tbody .sortableHeader, .confluenceTh, .confluenceTd{display:block!important; width:100%;}*/
    /*.confluenceTable {position:relative;}*/
    /*.sortableHeader {position:absolute;top:-9999px; left:-9999px;}*/
