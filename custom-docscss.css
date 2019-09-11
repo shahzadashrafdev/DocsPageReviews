@@ -19,7 +19,8 @@
     .table-wrap{overflow:auto;}
     .confluenceTable {width:100%; overflow-x: scroll;font-size: 12px;}
     .space-logo{display:none!important;}
-    .confluence-embedded-image{width:48px!important; height:48px!important;}
+    .message-content .confluence-embedded-image{width:48px!important; height:48px!important;}
+    .confluence-thumbnail {width:auto;}
     }
    @media (max-width:587px) and (min-width: 0px){
        .aui-header-secondary .aui-nav{float: left!important;}
