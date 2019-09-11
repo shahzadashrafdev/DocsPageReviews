@@ -21,7 +21,7 @@
     .confluenceTd{margin-bottom:auto!important;}
    .space-logo{display:none!important;}
    .confluence-embedded-image{width:48px!important; height:48px!important;}
-   .emotion{width:10px;}
+   .emoticon{width:10px;}
    }
   @media (max-width:587px) and (min-width: 0px){
       .aui-header-secondary .aui-nav{float: left!important;}
