@@ -18,11 +18,10 @@
     .aui-message{padding:15px;}
     .aui-message .aui-icon { float: right!important;position: static;padding:5px;}
    .table-wrap{overflow:auto;}
-    .confluenceTable, .sortableHeader, .confluenceTh, .confluenceTd{display:block; width:auto!important;}
-   .confluenceTable {position:relative;}
-   .sortableHeader {position:absolute;top:-9999px; left:-9999px;}
-   .confluenceTd{margin-bottom:auto!important;position:relative;}
-   .confluenceTable tr td:before {position:absolute;}
+   .confluenceTable, .confluenceTable tbody .sortableHeader, .confluenceTh, .confluenceTd{display:block; width:100%;}
+   /*.confluenceTable {position:relative;}*/
+   /*.sortableHeader {position:absolute;top:-9999px; left:-9999px;}*/
+   /*.confluenceTd{margin-bottom:auto!important;position:relative;}*/
    
    .space-logo{display:none!important;}
    .confluence-embedded-image{width:48px!important; height:48px!important;}
