@@ -13,7 +13,7 @@
    .wiki-content .sectionMacro tbody tr td{display: block;}
    .wiki-content ol li {margin: 0 0px 0px -20px;padding: 10px 10px 0 0;}
    .sectionMacro td{width:100%;margin-bottom:40px;}
-    #main-header{ margin-left:-50px;}
+    /*#main-header{ margin-left:-50px;}*/
     .sectionMacro tbody tr td{ padding-left: 0px!important;}
     .aui-message{padding:15px;}
     .aui-message .aui-icon { float: right!important;position: static;padding:5px;}
