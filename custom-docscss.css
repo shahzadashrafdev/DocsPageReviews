@@ -1,7 +1,7 @@
 @media (max-width: 768px) and (min-width: 0px){
     #header, .aui-header {width:auto!important;}
     h1#logo span.aui-header-logo-text{    font-size: 16px!important; padding-left:0!important}
-    #title-text {font-size:16px;font-weight: 800;}
+    #title-text {font-size:20px;}
      header .aui-nav, .aui-header .aui-header-secondary .aui-nav{margin-right:0px!important;  width:auto;padding: 0;}
     header #quick-search-query{width:inherit!important;}
     #quick-search{padding:auto;}
@@ -11,7 +11,8 @@
     #content{width:auto;}
     .wiki-content{overflow: auto;}
     .wiki-content .sectionMacro tbody tr td{display: block;}
-    .wiki-content ol li {margin: 0 0px 0px -25px;padding: 10px 10px 0 0;word-break: break-word;}
+    .wiki-content ol li {margin: 0 0px 0px -25px;padding: 10px 10px 0 0;word-break: break-word;line-height:25px;}
+    .wiki-content p{line-height:25px;}
     .toc-indentation li, .sectionMacro ul li{margin-left:-25px!important;}
     .sectionMacro td{width:100%;margin-bottom:40px;}
      .sectionMacro tbody tr td{ padding-left: 0px!important;}
